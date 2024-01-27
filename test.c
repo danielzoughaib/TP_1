@@ -132,7 +132,7 @@ void afficher_bits_test()
     printf("le bit de fin est\t:0x%08x\n", 31);
     printf("la valeur predite  est\t:(0x12345678) : 0001 0010 0011 0100 0101 0110 0111 1000\n");
     printf("la valeur obtenue  est\t:");
-    afficher_bits(0x8fffffff,0,31);
+    afficher_bits(0xffffffff,0,31);
     printf("\n\n");
 }
 

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ilyas/CLionProjects/TP1/cmake-build-debug"
+			"value" : "c:/Users/ilyas/OneDrive/Documents/GitHub/TP_1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ilyas/CLionProjects/TP1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ilyas/OneDrive/Documents/GitHub/TP_1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ilyas/CLionProjects/TP1"
+			"value" : "C:/Users/ilyas/OneDrive/Documents/GitHub/TP_1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ilyas/CLionProjects/TP1/cmake-build-debug"
+			"value" : "C:/Users/ilyas/OneDrive/Documents/GitHub/TP_1/cmake-build-debug"
 		},
 		{
 			"name" : "H2024TP1_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ilyas/CLionProjects/TP1"
+			"value" : "C:/Users/ilyas/OneDrive/Documents/GitHub/TP_1"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
