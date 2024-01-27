@@ -1,0 +1,1 @@
+void afficher_entete_decodeur();
